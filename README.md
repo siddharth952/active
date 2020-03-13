@@ -1,5 +1,5 @@
 # Active
-![](/logo.png =250x250)
+<img src="/logo1.png" width="200" height="200">
 > zsh/bash script to remind you to stay active.
 
 <img src="/demo1.gif">
