@@ -1,5 +1,5 @@
 # Active
-> zsh/bash script to remind you to drink water.
+> zsh/bash script to remind you to stay active.
 
 <img src="/demo.gif">
 
