@@ -1,4 +1,5 @@
 # Active
+<img src="/logo1.png">
 > zsh/bash script to remind you to stay active.
 
 <img src="/demo1.gif">
